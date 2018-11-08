@@ -8,4 +8,10 @@ import java.util.Arrays;
 
 public class WCTest {
 
+    @Test
+    public void wordCount(){
+
+
+    }
+
 }
